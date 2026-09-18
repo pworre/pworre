@@ -18,31 +18,13 @@ I enjoy understanding how things work from the mathematical model all the way to
 
 ---
 
-## 🛠️ Technologies
+## Selected projects
 
-**Languages**
-
-`C` · `C++` · `Python` · `MATLAB`
-
-**Engineering**
-
-`Control Theory` · `State Estimation` · `System Identification` · `Robotics` · `Real-Time Programming`
-
----
-
-## 🚀 Selected projects
-
-### 🚢 Autonomous Boat — Radar & Camera Perception
+### 🚢 TMR4240 - DP-Control of a ship
 
 Development of a perception system for an autonomous surface vessel, combining **radar and camera data** for detecting and tracking objects in a marine environment.
 
 **Focus:** Sensor fusion · Computer vision · Radar · Python · C/C++ · Robotics
-
-### 🎛️ Control Systems
-
-Academic and personal work involving modelling, analysis, simulation and control of dynamic systems.
-
-**Focus:** State-space models · PID control · Stability · Frequency-domain analysis · MATLAB/Simulink
 
 ### ⚡ Real-Time Programming
 
@@ -51,14 +33,3 @@ Projects involving real-time software and embedded systems, with emphasis on det
 **Focus:** C · Real-time systems · Embedded programming · Scheduling
 
 ---
-
-## 🎓 Education
-
-**Norwegian University of Science and Technology (NTNU)**
-*Cybernetics and Robotics*
-
-📍 Trondheim, Norway
-
----
-
-> *Building systems that sense, think, and act.*
