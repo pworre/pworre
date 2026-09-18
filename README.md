@@ -24,10 +24,6 @@ I enjoy understanding how things work from the mathematical model all the way to
 
 `C` · `C++` · `Python` · `MATLAB`
 
-**Tools & frameworks**
-
-`ROS 2` · `Git` · `Linux` · `Docker` · `MATLAB/Simulink`
-
 **Engineering**
 
 `Control Theory` · `State Estimation` · `System Identification` · `Robotics` · `Real-Time Programming`
