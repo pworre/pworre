@@ -8,12 +8,10 @@ I enjoy understanding how things work from the mathematical model all the way to
 
 ### What I'm working with
 
-* **Control systems** — PID, state-space control, feedback systems
-* **Robotics & autonomous systems**
-* **State estimation** — Kalman filtering and sensor fusion
+* **Control systems** 
+* **State estimation**
 * **Real-time systems & embedded programming**
 * **System modelling & simulation**
 * **Marine robotics and autonomous vessels**
-* **Software development for robotic systems**
 
 ---
